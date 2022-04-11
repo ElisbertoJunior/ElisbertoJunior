@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 ![Elisberto GitHub stats](https://github-readme-stats.vercel.app/api?username=ElisbertoJunior&show_icons=true&theme=dark)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElisbertoJunior)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
 
