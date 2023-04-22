@@ -19,7 +19,8 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <img align="center" alt="type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- 
+
+  
 </div><br/>
  <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisbertoJunior&layout=compact&langs_count=7&theme=dracula" />
